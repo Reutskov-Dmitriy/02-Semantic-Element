@@ -24,6 +24,12 @@
 	font-size: 14px;
 	margin: 0px 0px 0px 15px;
 	padding: 20px;
+	
+
+}
+
+.semanticElement__tablBody ul li{
+	list-style: none;
 }
 
 .semanticElement>section{
